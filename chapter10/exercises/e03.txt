@@ -1,0 +1,1 @@
+There is no limit to the amount of different variables named `i` this program could contain since there is no limit to the amount of blocks this program could contain.
