@@ -1,0 +1,4 @@
+(a) The f function: a, b, c
+(b) The g function: a, d
+(c) The block in which e is declared: a, d, e
+(d) The main function: a, f
